@@ -15,9 +15,9 @@ public class Middle {
         for (int i=0;i<n;i++)
         {
             list.add(findPos(list,A[i]),A[i]);
-            if(B.length%2==1)
+
                 B[i]=list.get(i/2);
-            else B[i]=list.get((i)/2);
+
         }
 
         return B;
