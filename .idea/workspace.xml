@@ -1,39 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$USER_HOME$/ele_git/develop/xy.base_api/base-api-processor/src/main/java/me/ele/xy/base/api/processor/action/packs/FlushDataAction.java" description="if (deliveryFeeRule != null) {" line="225" />
+    <bookmark url="file://$USER_HOME$/ele_git/fuck_ers/payservice-srv-spark/payservice-srv-spark-processor/src/main/java/me/ele/napos/payservice/srv/spark/processor/action/flushData/FlushDefaultChargeRuleAction.java" description="thresholdHelper.setNewThresholdRule(newThreshold, ..." line="526" />
+    <bookmark url="file://$USER_HOME$/ele_git/master/zion/zion-srv-invoker-impl/src/main/java/me/ele/napos/zion/srv/invoker/impl/executors/delivery/SetShopProfileExecutor.java" description="OperationFailedException" line="79" />
+    <bookmark url="file://$USER_HOME$/ele_git/fixError/payservice-srv-spark/payservice-srv-spark-processor/src/main/java/me/ele/napos/payservice/srv/spark/processor/action/flushData/FlushDefaultChargeRuleAction.java" description="targetRule.getDeliveryFeeStep().getPriceItems() ==..." line="292" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="69db5f6e-516a-4811-bf72-352b040140e8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CoderTreasure/AnotherAdd/UnusualAdd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CoderTreasure/ChangeString/Change.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CoderTreasure/ConvertTreeToList/Converter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CoderTreasure/Count2/Count2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CoderTreasure/FindLargestMatrix/SubMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CoderTreasure/JudgeSubstring/Substr.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CoderTreasure/NextLargerNum2/NextElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CoderTreasure/SubMatrix/SubMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/Candy/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/EvaluateReverse/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/InsertionSort/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/MaxPoints/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/MinumDepth/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/SingleNum/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/SingleNumplus/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/SortList/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/SortList/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/WordBreak/Solution.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindMiddleOnTime/Main.class" afterPath="" />
+    <list default="true" id="69db5f6e-516a-4811-bf72-352b040140e8" name="Default" comment="增加测试答案">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CMBCC/CalNum/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CMBCC/Game/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SQL/Test.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/CircleNum/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/ParenthesesDepth/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/SQRT/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/School/Q1/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/School/Q2/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/Test/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/CreditCard51/SortString/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/CreditCard51/ThreadCount/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/DeleteSameChar/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/LostMin/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/MergeMidNum/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/CountZero/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/KMax/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/MaxSubString/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/Maze/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/MethodsOfSum/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/Restaurant/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/Transform/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/UglyNum/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/XOR/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/GoodFuture/Miniestk/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/HUAWEI/Poker/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/HUAWEI/TheHighestScore/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/JD/ArrayKNum/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/JD/Multi/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Meituan/AverageAge/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Meituan/Flip/Flip.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Meituan/LongestDistance/LongestDistance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Meituan/Vist/Visit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/MicroSoft/WaterCollection/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/AbandoningTwo/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Chorus/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Clock/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/DungeonEscapist/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Fibonacci/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Kitchen/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/MaxLegalString/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/NumGame/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/ResortArray/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/SeparateApples/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/SeparateField/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/TheWordYiLiked/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Tune/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/TwoSort/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Qunar/BinarySearch/BinarySearch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Qunar/Coder/Coder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Qunar/FirstRepeat/FirstRepeat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/Code/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/GeoHash/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/Prime/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/First/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/Flower/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/Second/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/Sum/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/Third/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/WAP/LinearData/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/WAP/MoveCoins/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Wacai/FlowerNum/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Wacai/SumSeries/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/Binary/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/Git/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/ReverseSentence/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/SeparatedPhoneNum/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/Shares/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/YuanJing/Pokers/Main.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/ACM/TheClosestMPoints/Main.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/ACM/TheClosestMPoints/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AddSubstitution/AddSubstitution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AddSubstitution/AddSubstitution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AnotherAdd/UnusualAdd.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AnotherAdd/UnusualAdd.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AntiOrder/AntiOrder.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AntiOrder/AntiOrder.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BiPartition/Bipartition.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BiPartition/Bipartition.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BiPartition/Point.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BiPartition/Point.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BinaryFloat/BinDecimal.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BinaryFloat/BinDecimal.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BinaryInser/BinInsert.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BinaryInser/BinInsert.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/CatDogAsylum/CatDogAsylum.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/CatDogAsylum/CatDogAsylum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ChangeString/Change.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ChangeString/Change.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/Checker.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/Checker.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/Clearer.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/Clearer.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/TreeNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/CoinsPresentation/Coins.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/CoinsPresentation/Coins.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/Converter.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/Converter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/Count2/Count2.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/Count2/Count2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DeleteNodeVisted/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DeleteNodeVisted/ListNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DeleteNodeVisted/Remove.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DeleteNodeVisted/Remove.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DenseLine/DenseLine.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DenseLine/DenseLine.class" />
@@ -48,6 +112,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindCommonAncestor/LCA.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindCommonAncestor/LCA.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindGraphPathExist/Path.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindGraphPathExist/Path.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindGraphPathExist/UndirectedGraphNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindGraphPathExist/UndirectedGraphNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLargestMatrix/SubMatrix.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLargestMatrix/SubMatrix.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLongestWord/LongestString.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLongestWord/LongestString.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLostNumber/Finder.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLostNumber/Finder.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindMiddleOnTime/Middle.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindMiddleOnTime/Middle.class" />
@@ -64,6 +129,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeMirrorListNode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeMirrorListNode/ListNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeMirrorListNode/Palindrome.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeMirrorListNode/Palindrome.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeSame/Same.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeSame/Same.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeSubstring/Substr.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeSubstring/Substr.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/KthNumber/KthNumber.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/KthNumber/KthNumber.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/LinesMeet/CrossLine.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/LinesMeet/CrossLine.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ListNodeAdd/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ListNodeAdd/ListNode.class" />
@@ -75,6 +141,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MinBST/MinimalBST.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MinBST/MinimalBST.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MinBST/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MinBST/TreeNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/NextLargerNum/NextElement.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/NextLargerNum/NextElement.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/NextLargerNum2/NextElement.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/NextLargerNum2/NextElement.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/PerenthesisJudge/Parenthesis.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/PerenthesisJudge/Parenthesis.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/RankCount/Rank.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/RankCount/Rank.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/Render/Render.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/Render/Render.class" />
@@ -88,6 +155,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SlitListNode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SlitListNode/ListNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SlitListNode/Partition.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SlitListNode/Partition.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SortStack/TwoStacks.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SortStack/TwoStacks.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SubMatrix/SubMatrix.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SubMatrix/SubMatrix.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SubsetPrint/Subset.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SubsetPrint/Subset.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SumSix/FindPair.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SumSix/FindPair.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TransBinaryNum/Transform.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TransBinaryNum/Transform.class" />
@@ -96,6 +164,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TreeLevel/TreeLevel.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TreeLevel/TreeLevel.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TreeLevel/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TreeLevel/TreeNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ZipChar/Zipper.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ZipChar/Zipper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/EvaluateReverse/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/EvaluateReverse/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MaxPoints/Point.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MaxPoints/Point.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MaxPoints/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MaxPoints/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MinumDepth/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MinumDepth/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MinumDepth/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MinumDepth/TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/Main.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/Solution.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/AddNoOP/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/AddNoOP/Solution.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ArrayMultiple/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ArrayMultiple/Solution.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ArrayOdd/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ArrayOdd/Solution.class" />
@@ -189,143 +265,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/TwoNumSumS/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/TwoNumSumS/Solution.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/UglyNum/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/UglyNum/Solution.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/VerifyBst/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/VerifyBst/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/esper.xml" afterPath="$PROJECT_DIR$/.idea/libraries/esper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewCodeTest.iml" afterPath="$PROJECT_DIR$/NewCodeTest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ACM/TheClosestMPoints/Main.java" afterPath="$PROJECT_DIR$/src/ACM/TheClosestMPoints/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/AddSubstitution/AddSubstitution.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/AddSubstitution/AddSubstitution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/AntiOrder/AntiOrder.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/AntiOrder/AntiOrder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/BiPartition/Bipartition.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/BiPartition/Bipartition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/BinaryFloat/BinDecimal.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/BinaryFloat/BinDecimal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/BinaryInser/BinInsert.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/BinaryInser/BinInsert.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/CatDogAsylum/CatDogAsylum.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/CatDogAsylum/CatDogAsylum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/ClearMatrix/Checker.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/ClearMatrix/Checker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/ClearMatrix/Clearer.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/ClearMatrix/Clearer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/CoinsPresentation/Coins.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/CoinsPresentation/Coins.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/DeleteNodeVisted/Remove.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/DeleteNodeVisted/Remove.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/DenseLine/DenseLine.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/DenseLine/DenseLine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/DescribeNum/ToString.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/DescribeNum/ToString.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/DueConsistsOfStack/Solution.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/DueConsistsOfStack/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/EnsureDifference/Different.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/EnsureDifference/Different.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/ExchangeBinaryNum/Exchange.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/ExchangeBinaryNum/Exchange.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/FinNextInLDR/Path.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/FinNextInLDR/Path.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/FindClosedWords/Distance.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/FindClosedWords/Distance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/FindCommonAncestor/LCA.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/FindCommonAncestor/LCA.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/FindGraphPathExist/Path.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/FindGraphPathExist/Path.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/FindLongestWord/LongestString.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/FindLongestWord/LongestString.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/FindLostNumber/Finder.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/FindLostNumber/Finder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/FindMiddleOnTime/Middle.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/FindMiddleOnTime/Middle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/FindRearrange/Rearrange.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/FindRearrange/Rearrange.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/FindRkNode/Solution.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/FindRkNode/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/FindSumPath/Solution.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/FindSumPath/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/FindTwoBinaryOne/CloseNumber.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/FindTwoBinaryOne/CloseNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/Flood/Flood.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/Flood/Flood.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/GoUpstairs/GoUpstairs.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/GoUpstairs/GoUpstairs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/JudgeBalanceTree/Balance.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/JudgeBalanceTree/Balance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/JudgeMirrorListNode/Palindrome.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/JudgeMirrorListNode/Palindrome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/JudgeSame/Same.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/JudgeSame/Same.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/KthNumber/KthNumber.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/KthNumber/KthNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/LinesMeet/CrossLine.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/LinesMeet/CrossLine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/ListNodeAdd/Plus.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/ListNodeAdd/Plus.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/LookForWord/Frequency.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/LookForWord/Frequency.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/MagicIndex/MagicIndex.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/MagicIndex/MagicIndex.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/MagicIndexVersion/MagicIndex.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/MagicIndexVersion/MagicIndex.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/MaxSumLine/MaxSum.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/MaxSumLine/MaxSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/MinBST/MinimalBST.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/MinBST/MinimalBST.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/NextLargerNum/NextElement.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/NextLargerNum/NextElement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/PerenthesisJudge/Parenthesis.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/PerenthesisJudge/Parenthesis.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/RankCount/Rank.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/RankCount/Rank.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/Render/Render.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/Render/Render.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/ReplaceSpace/Replacement.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/ReplaceSpace/Replacement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/ReverseEqual/ReverseEqual.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/ReverseEqual/ReverseEqual.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/ReverseString/Reverse.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/ReverseString/Reverse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/RobotMovement/Robot.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/RobotMovement/Robot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/RobotNewVersionMovement/Robot.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/RobotNewVersionMovement/Robot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/RunningAnt/Ants.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/RunningAnt/Ants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/SeiOfStacks/SetOfStacks.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/SeiOfStacks/SetOfStacks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/SlitListNode/Partition.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/SlitListNode/Partition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/SortStack/TwoStacks.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/SortStack/TwoStacks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/SubsetPrint/Subset.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/SubsetPrint/Subset.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/SumSix/FindPair.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/SumSix/FindPair.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/TransBinaryNum/Transform.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/TransBinaryNum/Transform.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/TransformPic/Transform.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/TransformPic/Transform.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/TreeLevel/TreeLevel.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/TreeLevel/TreeLevel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CoderTreasure/ZipChar/Zipper.java" afterPath="$PROJECT_DIR$/src/CoderTreasure/ZipChar/Zipper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/AddNoOP/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/AddNoOP/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ArrayMultiple/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ArrayMultiple/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ArrayOdd/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ArrayOdd/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/BinaryFind1/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/BinaryFind1/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/BinaryTreeBalance/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/BinaryTreeBalance/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/BinaryTreeHeight/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/BinaryTreeHeight/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/BinaryTreeJudge/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/BinaryTreeJudge/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/Calculate1/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/Calculate1/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ChangeDoubleList/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ChangeDoubleList/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/CheckMate/Board.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/CheckMate/Board.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ComplexNodeLIst/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ComplexNodeLIst/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/CountCircle/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/CountCircle/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/CountRobotMovement/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/CountRobotMovement/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/CountZero/Factor.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/CountZero/Factor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/DefinitionBinartTree/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/DefinitionBinartTree/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/DeleteNodeAgain/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/DeleteNodeAgain/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ExchangeWithoutTemp/Exchange.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ExchangeWithoutTemp/Exchange.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/Fibonacci/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/Fibonacci/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FinSortNum/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FinSortNum/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindBiggest/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindBiggest/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindCommonNode/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindCommonNode/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindIndexS/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindIndexS/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindKnode/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindKnode/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindLIRNextNode/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindLIRNextNode/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindMinK/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindMinK/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindNumbersTwice/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindNumbersTwice/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindOnceInt/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindOnceInt/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindPathTree/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindPathTree/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindRing/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindRing/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindStringInputUnique/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindStringInputUnique/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FindVector/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FindVector/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FirstOnceChar/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FirstOnceChar/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/Frog/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/Frog/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/FuckingFrog/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/FuckingFrog/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/GuessColor/Result.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/GuessColor/Result.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/HalfTimesNum/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/HalfTimesNum/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/IsLucky/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/IsLucky/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/JudgeIsNum/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/JudgeIsNum/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/JudgeStackOrder/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/JudgeStackOrder/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/JudgeWithoutCompare/Max.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/JudgeWithoutCompare/Max.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ListNodeKth/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ListNodeKth/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/MartixClockWise/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/MartixClockWise/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/MatchVaule/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/MatchVaule/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/MergeNotReduce/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/MergeNotReduce/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/MidNum/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/MidNum/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/MirrorBinaryTree/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/MirrorBinaryTree/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/MirrorTree/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/MirrorTree/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/NumToString/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/NumToString/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/Power/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/Power/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/PrintBinaryTree/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/PrintBinaryTree/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/PrintMinNuM/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/PrintMinNuM/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/PrintString/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/PrintString/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/PrintTreeCol/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/PrintTreeCol/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/PrintZhiTree/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/PrintZhiTree/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ROLString/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ROLString/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/Rectangle/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/Rectangle/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/RectanglePath/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/RectanglePath/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ReplaceSpace/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ReplaceSpace/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ReverseList/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ReverseList/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ReverseListNode/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ReverseListNode/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ReversePair/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ReversePair/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/ReverseWords/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/ReverseWords/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/SerializeTreeAndDeserialize/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/SerializeTreeAndDeserialize/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/SlideWindow/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/SlideWindow/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/StackMin/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/StackMin/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/StackToQue/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/StackToQue/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/Sum/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/Sum/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/TwistedMin/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/TwistedMin/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/TwoNumSumS/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/TwoNumSumS/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/UglyNum/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/UglyNum/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordToOffer/VerifyBst/Solution.java" afterPath="$PROJECT_DIR$/src/SwordToOffer/VerifyBst/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LeetCode/SortList/Solution.java" afterPath="$PROJECT_DIR$/src/LeetCode/SortList/Solution.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -339,6 +280,12 @@
     <SUITE FILE_PATH="coverage/NewCodeTest$Main__2_.coverage" NAME="Main (2) Coverage Results" MODIFIED="1489936822368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>SwordToOffer.MartixClockWise.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/NewCodeTest$Main__5_.coverage" NAME="Main (5) Coverage Results" MODIFIED="1506253029057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SchoolRecruit2016.WAP.LinearData.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/NewCodeTest$Main__3_.coverage" NAME="Main (3) Coverage Results" MODIFIED="1504872547347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SchoolRecruit2016.JD.ArrayKNum.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/NewCodeTest$Main__4_.coverage" NAME="Main (4) Coverage Results" MODIFIED="1490172769512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>SwordToOffer.CountRobotMovement.*</FILTER>
     </SUITE>
@@ -346,24 +293,75 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindPair.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CoderTreasure/SumSix/FindPair.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/LostMin/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="345">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/MergeMidNum/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Subset.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CoderTreasure/SubsetPrint/Subset.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/WAP/MoveCoins/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/WAP/LinearData/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="64" column="9" lean-forward="false" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+              <folding>
+                <element signature="e#2764#2765#0" expanded="true" />
+                <element signature="e#2797#2798#0" expanded="true" />
+                <element signature="e#2834#2835#0" expanded="true" />
+                <element signature="e#2870#2871#0" expanded="true" />
+                <element signature="e#2905#2906#0" expanded="true" />
+                <element signature="e#2940#2941#0" expanded="true" />
+                <element signature="e#2984#2985#0" expanded="true" />
+                <element signature="e#3024#3025#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/TheWordYiLiked/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -372,79 +370,35 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/SortList/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/InsertionSort/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/WordBreak/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Candy/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/SingleNumplus/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="345">
+              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/SortList/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/DeleteSameChar/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="165">
+              <caret line="13" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Coins.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CoderTreasure/CoinsPresentation/Coins.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/CreditCard51/ThreadCount/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="76" lean-forward="false" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rank.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CoderTreasure/RankCount/Rank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="2625">
+              <caret line="190" column="12" lean-forward="false" selection-start-line="190" selection-start-column="12" selection-end-line="190" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2711#2712#0" expanded="true" />
+                <element signature="e#2741#2742#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -459,6 +413,20 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>poker</find>
+      <find>ugly</find>
+      <find>sort</find>
+      <find>reverse</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -470,57 +438,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CoderTreasure/RankCount/Main.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/AntiOrder/AntiOrder.java" />
-        <option value="$PROJECT_DIR$/src/SwordToOffer/ExchangeWithoutTemp/Exchange.java" />
-        <option value="$PROJECT_DIR$/src/SwordToOffer/CheckMate/Board.java" />
-        <option value="$PROJECT_DIR$/src/SwordToOffer/JudgeWithoutCompare/Max.java" />
-        <option value="$PROJECT_DIR$/src/SwordToOffer/GuessColor/Result.java" />
-        <option value="$PROJECT_DIR$/src/SwordToOffer/CountZero/Factor.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/RankCount/Rank.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/FindRearrange/Rearrange.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/DescribeNum/Main.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/DescribeNum/ToString.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/MaxSumLine/MaxSum.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/LookForWord/Frequency.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/SumSix/FindPair.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/FindClosedWords/Distance.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/FindMiddleOnTime/Main.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/CnvertTreeToList/Convert.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/ConvertTreeToList/Convert.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/AnotherAdd/UnusualAdd.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/Count2/Main.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/Count2/Count2.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/NextLargerNum/Main.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/NextLargerNum/NextElement.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/NextLargerNum2/NextElemnt.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/NextLargerNum2/NextElement.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/FindLongestWord/Main.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/FindLongestWord/LongestString.java" />
-        <option value="$PROJECT_DIR$/test/JudgeSubstring/SubstrTest.java" />
-        <option value="$PROJECT_DIR$/src/test/CoderTreasure/JudgeSubstring/SubstrTest.java" />
-        <option value="$PROJECT_DIR$/test/test/CoderTreasure/JudgeSubstring/TestSubstrTest.java" />
-        <option value="$PROJECT_DIR$/test/CoderTreasure/JudgeSubstring/TestSubstr.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/JudgeSubstring/Substr.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/FindMiddleOnTime/Middle.java" />
-        <option value="$PROJECT_DIR$/test/test/CoderTreasure/ChangeString/ChangeTest.java" />
-        <option value="$PROJECT_DIR$/test/CoderTreasure/ChangeString/Change.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/ChangeString/Change.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/FindLargestMatrix/SubMatrix.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/SubMatrix/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/SubMatrix/SuMatrix.java" />
-        <option value="$PROJECT_DIR$/src/CoderTreasure/SubMatrix/SubMatrix.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/MinumDepth/Solution.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/EvaluateReverse/Solution.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/MaxPoints/Main.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/MaxPoints/Solution.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/SortList/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/Flower/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/First/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/Second/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/CountZero/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/Transform/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/Maze/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/Restaurant/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/MethodsOfSum/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/GoodFuture/Miniestk/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/Test/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/School/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/School/Q1/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/School/Q2/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/KMax/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/MaxSubString/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/FlowerNum/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/MicroSoft/WaterCollection/Solution.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/SumSeries/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Wacai/SumSeries/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/Code/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/Prime/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/GeoHash/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/YuanJing/Pokers/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/SeparatedPhoneNum/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/ReverseSentence/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/JD/ArrayKNum/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/JD/Multi/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/ResortArray/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Tune/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/MaxLegalString/Main.java" />
+        <option value="$PROJECT_DIR$/src/SwordToOffer/UglyNum/Solution.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/UglyNum/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/XOR/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/CircleNum/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/ParenthesesDepth/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/SQRT/Main.java" />
+        <option value="$PROJECT_DIR$/src/CMBCC/Main.java" />
+        <option value="$PROJECT_DIR$/src/CMBCC/CalNum/Main.java" />
+        <option value="$PROJECT_DIR$/src/CMBCC/Game/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Clock/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/CreditCard51/ThreadCount/MAIN.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/CreditCard51/SortString/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/CreditCard51/ThreadCount/Main.java" />
+        <option value="$PROJECT_DIR$/src/SQL/Test.sql" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/DeleteSameChar/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/LostMin/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/MergeMidNum/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/WAP/MoveCoins/Main.java" />
+        <option value="$PROJECT_DIR$/src/SchoolRecruit2016/WAP/LinearData/Main.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/SortList/Solution.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/InsertionSort/Solution.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/WordBreak/Solution.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/Candy/Solution.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/SingleNum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/SingleNumplus/Solution.java" />
       </list>
     </option>
   </component>
@@ -530,11 +498,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="26" />
-    <option name="width" value="1400" />
-    <option name="height" value="828" />
+    <option name="x" value="62" />
+    <option name="y" value="43" />
+    <option name="width" value="1181" />
+    <option name="height" value="678" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -554,50 +528,58 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewCodeTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewCodeTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewCodeTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewCodeTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewCodeTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewCodeTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="NewCodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewCodeTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewCodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewCodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewCodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewCodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewCodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewCodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="SortList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewCodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewCodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SchoolRecruit2016" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewCodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewCodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SchoolRecruit2016" type="462c0819:PsiDirectoryNode" />
+              <item name="Ctrip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewCodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewCodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SchoolRecruit2016" type="462c0819:PsiDirectoryNode" />
+              <item name="WAP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -612,7 +594,9 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -637,15 +621,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (5)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="CoderTreasure.FindLongestWord.*" />
+          <option name="PATTERN" value="SchoolRecruit2016.CreditCard51.SortString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="CoderTreasure.FindLongestWord.Main" />
+      <option name="MAIN_CLASS_NAME" value="SchoolRecruit2016.CreditCard51.SortString.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -656,20 +640,127 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="NewCodeTest" />
       <envs />
-      <method />
     </configuration>
-    <configuration default="false" name="TestSubstrTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test.CoderTreasure.JudgeSubstring.*" />
+          <option name="PATTERN" value="SchoolRecruit2016.Ctrip.MergeMidNum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="NewCodeTest" />
+      <option name="MAIN_CLASS_NAME" value="SchoolRecruit2016.Ctrip.MergeMidNum.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test.CoderTreasure.JudgeSubstring" />
-      <option name="MAIN_CLASS_NAME" value="test.CoderTreasure.JudgeSubstring.TestSubstrTest" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NewCodeTest" />
+      <envs />
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SchoolRecruit2016.CreditCard51.ThreadCount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="SchoolRecruit2016.CreditCard51.ThreadCount.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NewCodeTest" />
+      <envs />
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SchoolRecruit2016.WAP.LinearData.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="SchoolRecruit2016.WAP.LinearData.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NewCodeTest" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SchoolRecruit2016.Ctrip.LostMin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="SchoolRecruit2016.Ctrip.LostMin.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NewCodeTest" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -682,80 +773,46 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="ChangeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test.CoderTreasure.ChangeString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="NewCodeTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test.CoderTreasure.ChangeString" />
-      <option name="MAIN_CLASS_NAME" value="test.CoderTreasure.ChangeString.ChangeTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.MaxPoints.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="LeetCode.MaxPoints.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="NewCodeTest" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.SortList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="LeetCode.SortList.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="NewCodeTest" />
-      <envs />
-      <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
-      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
@@ -810,29 +867,6 @@
         <option name="SUPPORT_LIB_ENABLED" value="true" />
         <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -981,36 +1015,6 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <envs />
@@ -1076,14 +1080,6 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1125,43 +1121,6 @@
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
       <envs />
       <method />
     </configuration>
@@ -1212,17 +1171,17 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestSubstrTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ChangeTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (4)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main (3)" />
       <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main (5)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ChangeTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestSubstrTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (5)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main (4)" />
         <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
@@ -1275,6 +1234,46 @@
       <workItem from="1493045857533" duration="158000" />
       <workItem from="1493050116657" duration="50000" />
       <workItem from="1493448594277" duration="12000" />
+      <workItem from="1499839166898" duration="3052000" />
+      <workItem from="1500369828790" duration="12433000" />
+      <workItem from="1500431089207" duration="13000" />
+      <workItem from="1501671988001" duration="1976000" />
+      <workItem from="1501726761125" duration="50000" />
+      <workItem from="1502269362568" duration="3992000" />
+      <workItem from="1502427814127" duration="2802000" />
+      <workItem from="1502436472307" duration="4000" />
+      <workItem from="1502621656593" duration="13000" />
+      <workItem from="1503385494406" duration="12641000" />
+      <workItem from="1503406112083" duration="328000" />
+      <workItem from="1503541423147" duration="527000" />
+      <workItem from="1503547670974" duration="9106000" />
+      <workItem from="1503581850570" duration="7486000" />
+      <workItem from="1503704186771" duration="179000" />
+      <workItem from="1503722623664" duration="578000" />
+      <workItem from="1503735328968" duration="2232000" />
+      <workItem from="1503890137854" duration="3663000" />
+      <workItem from="1503974533584" duration="1415000" />
+      <workItem from="1504011437413" duration="3420000" />
+      <workItem from="1504100777753" duration="520000" />
+      <workItem from="1504255995646" duration="6397000" />
+      <workItem from="1504446612461" duration="2869000" />
+      <workItem from="1504699574291" duration="5520000" />
+      <workItem from="1504752818293" duration="666000" />
+      <workItem from="1504870120435" duration="3993000" />
+      <workItem from="1504940399047" duration="4919000" />
+      <workItem from="1505026437765" duration="9932000" />
+      <workItem from="1505285964088" duration="2828000" />
+      <workItem from="1505558794680" duration="1979000" />
+      <workItem from="1505709218030" duration="20172000" />
+      <workItem from="1505789752781" duration="3703000" />
+      <workItem from="1505826625136" duration="1188000" />
+      <workItem from="1505993476160" duration="3975000" />
+      <workItem from="1506151532600" duration="629000" />
+      <workItem from="1506154380623" duration="822000" />
+      <workItem from="1506230810166" duration="8493000" />
+      <workItem from="1506422847787" duration="1214000" />
+      <workItem from="1506498445442" duration="589000" />
+      <workItem from="1506664891300" duration="139000" />
     </task>
     <servers />
   </component>
@@ -1311,41 +1310,50 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299787000" />
+    <option name="totallyTimeSpent" value="446244000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="26" width="1400" height="828" extended-state="0" />
+    <frame x="62" y="43" width="1181" height="678" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923618" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.509434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39130434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32590052" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37628865" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34855136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923618" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39451116" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39863014" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744566" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32591414" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923618" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1381,14 +1389,50 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加测试答案" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加测试答案" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SchoolRecruit2016/YuanJing/Pokers/Main.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/SQRT/Main.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/SQRT/Main.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/SQRT/Main.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CMBCC/Game/Main.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1397,297 +1441,389 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SwordToOffer/ReversePair/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-219">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/AntiOrder/AntiOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordToOffer/ExchangeWithoutTemp/Exchange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordToOffer/CheckMate/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="87" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordToOffer/JudgeWithoutCompare/Max.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordToOffer/GuessColor/Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordToOffer/CountZero/Factor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/FindRearrange/Rearrange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/DescribeNum/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/DescribeNum/ToString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/MaxSumLine/MaxSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/LookForWord/Frequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/FindClosedWords/Distance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/FindMiddleOnTime/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/TransformPic/Transform.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/FindGraphPathExist/Path.java">
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/School/Q2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/ConvertTreeToList/Converter.java">
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/Maze/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/AnotherAdd/UnusualAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/Count2/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/Count2/Count2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/NextLargerNum/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/NextLargerNum2/NextElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="32" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/NextLargerNum/NextElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/FindLongestWord/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/FindLongestWord/LongestString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/SumSix/FindPair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/CoderTreasure/JudgeSubstring/SubstrTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/test/CoderTreasure/JudgeSubstring/TestSubstrTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/CoderTreasure/JudgeSubstring/TestSubstr.java" />
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/JudgeSubstring/Substr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/FindMiddleOnTime/Middle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-191">
-          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/CoderTreasure.C" />
-    <entry file="file://$PROJECT_DIR$/test/test/CoderTreasure/ChangeString/ChangeTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/CoderTreasure/ChangeString/Change.java" />
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/ChangeString/Change.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/FindLargestMatrix/SubMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/MinumDepth/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/EvaluateReverse/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/MaxPoints/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/MaxPoints/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="60" column="12" lean-forward="false" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/SubsetPrint/Subset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/CoinsPresentation/Coins.java">
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/School/Q1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="76" lean-forward="false" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/KMax/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/MaxSubString/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/MethodsOfSum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/MicroSoft/WaterCollection/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Wacai/FlowerNum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Wacai/SumSeries/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/Code/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/Prime/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11925">
+          <caret line="828" column="26" lean-forward="false" selection-start-line="828" selection-start-column="26" selection-end-line="828" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/ReverseSentence/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/JD/ArrayKNum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/JD/Multi/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/SeparatedPhoneNum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="26" column="43" lean-forward="false" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/GeoHash/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/HUAWEI/Poker/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/YuanJing/Pokers/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/SubMatrix/SubMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/ResortArray/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="330">
+          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoderTreasure/RankCount/Rank.java">
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/MaxLegalString/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Tune/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CMBCC/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/XOR/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/CircleNum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/ParenthesesDepth/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/SQRT/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CMBCC/CalNum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CMBCC/Game/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/UglyNum/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwordToOffer/UglyNum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Clock/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6ef20c9b-e5ed-465a-9f32-fc87e2dac39a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/CreditCard51/SortString/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/CreditCard51/ThreadCount/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="190" column="12" lean-forward="false" selection-start-line="190" selection-start-column="12" selection-end-line="190" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2711#2712#0" expanded="true" />
+            <element signature="e#2741#2742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SQL/Test.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="185" column="69" lean-forward="false" selection-start-line="185" selection-start-column="69" selection-end-line="185" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/DeleteSameChar/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/LostMin/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/time/ZoneId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2865">
+          <caret line="272" column="25" lean-forward="false" selection-start-line="272" selection-start-column="25" selection-end-line="272" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/time/Clock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="177" column="44" lean-forward="false" selection-start-line="177" selection-start-column="44" selection-end-line="177" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="179" column="33" lean-forward="false" selection-start-line="179" selection-start-column="33" selection-end-line="179" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/time/Duration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="132" column="19" lean-forward="false" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/MergeMidNum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/SortList/Main.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="87">
+          <caret line="506" column="0" lean-forward="false" selection-start-line="506" selection-start-column="0" selection-end-line="506" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="5098" column="7" lean-forward="true" selection-start-line="5098" selection-start-column="7" selection-end-line="5098" selection-end-column="7" />
+          <folding>
+            <element signature="e#197058#197059#0" expanded="false" />
+            <element signature="e#197128#197129#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/WAP/MoveCoins/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/SortList/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/InsertionSort/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/WAP/LinearData/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="960">
+          <caret line="64" column="9" lean-forward="false" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+          <folding>
+            <element signature="e#2764#2765#0" expanded="true" />
+            <element signature="e#2797#2798#0" expanded="true" />
+            <element signature="e#2834#2835#0" expanded="true" />
+            <element signature="e#2870#2871#0" expanded="true" />
+            <element signature="e#2905#2906#0" expanded="true" />
+            <element signature="e#2940#2941#0" expanded="true" />
+            <element signature="e#2984#2985#0" expanded="true" />
+            <element signature="e#3024#3025#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/WordBreak/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/TheWordYiLiked/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/SingleNum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Candy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/SingleNumplus/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="99">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding />
         </state>
       </provider>
