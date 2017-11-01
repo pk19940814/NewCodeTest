@@ -1,272 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$USER_HOME$/ele_git/develop/xy.base_api/base-api-processor/src/main/java/me/ele/xy/base/api/processor/action/packs/FlushDataAction.java" description="if (deliveryFeeRule != null) {" line="225" />
     <bookmark url="file://$USER_HOME$/ele_git/fuck_ers/payservice-srv-spark/payservice-srv-spark-processor/src/main/java/me/ele/napos/payservice/srv/spark/processor/action/flushData/FlushDefaultChargeRuleAction.java" description="thresholdHelper.setNewThresholdRule(newThreshold, ..." line="526" />
     <bookmark url="file://$USER_HOME$/ele_git/master/zion/zion-srv-invoker-impl/src/main/java/me/ele/napos/zion/srv/invoker/impl/executors/delivery/SetShopProfileExecutor.java" description="OperationFailedException" line="79" />
     <bookmark url="file://$USER_HOME$/ele_git/fixError/payservice-srv-spark/payservice-srv-spark-processor/src/main/java/me/ele/napos/payservice/srv/spark/processor/action/flushData/FlushDefaultChargeRuleAction.java" description="targetRule.getDeliveryFeeStep().getPriceItems() ==..." line="292" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69db5f6e-516a-4811-bf72-352b040140e8" name="Default" comment="增加测试答案">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CMBCC/CalNum/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CMBCC/Game/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SQL/Test.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/CircleNum/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/ParenthesesDepth/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Aiqiyi/SQRT/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/School/Q1/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/School/Q2/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ali/Autumn2017/Test/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/CreditCard51/SortString/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/CreditCard51/ThreadCount/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/DeleteSameChar/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/LostMin/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/MergeMidNum/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/CountZero/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/KMax/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/MaxSubString/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/Maze/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/MethodsOfSum/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/Restaurant/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/Transform/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/UglyNum/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/DiDi/XOR/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/GoodFuture/Miniestk/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/HUAWEI/Poker/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/HUAWEI/TheHighestScore/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/JD/ArrayKNum/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/JD/Multi/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Meituan/AverageAge/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Meituan/Flip/Flip.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Meituan/LongestDistance/LongestDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Meituan/Vist/Visit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/MicroSoft/WaterCollection/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/AbandoningTwo/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Chorus/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Clock/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/DungeonEscapist/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Fibonacci/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Kitchen/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/MaxLegalString/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/NumGame/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/ResortArray/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/SeparateApples/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/SeparateField/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/TheWordYiLiked/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/Tune/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/TwoSort/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Qunar/BinarySearch/BinarySearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Qunar/Coder/Coder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Qunar/FirstRepeat/FirstRepeat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/Code/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/GeoHash/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Tencent/Prime/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/First/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/Flower/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/Second/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/Sum/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/TouTiao/Third/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/WAP/LinearData/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/WAP/MoveCoins/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Wacai/FlowerNum/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/Wacai/SumSeries/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/Binary/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/Git/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/ReverseSentence/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/SeparatedPhoneNum/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/XIAOMI/Shares/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/YuanJing/Pokers/Main.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/ACM/TheClosestMPoints/Main.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/ACM/TheClosestMPoints/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AddSubstitution/AddSubstitution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AddSubstitution/AddSubstitution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AnotherAdd/UnusualAdd.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AnotherAdd/UnusualAdd.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AntiOrder/AntiOrder.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/AntiOrder/AntiOrder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BiPartition/Bipartition.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BiPartition/Bipartition.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BiPartition/Point.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BiPartition/Point.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BinaryFloat/BinDecimal.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BinaryFloat/BinDecimal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BinaryInser/BinInsert.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/BinaryInser/BinInsert.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/CatDogAsylum/CatDogAsylum.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/CatDogAsylum/CatDogAsylum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ChangeString/Change.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ChangeString/Change.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/Checker.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/Checker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/Clearer.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/Clearer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ClearMatrix/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/CoinsPresentation/Coins.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/CoinsPresentation/Coins.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/Converter.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/Converter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ConvertTreeToList/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/Count2/Count2.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/Count2/Count2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DeleteNodeVisted/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DeleteNodeVisted/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DeleteNodeVisted/Remove.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DeleteNodeVisted/Remove.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DenseLine/DenseLine.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DenseLine/DenseLine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DenseLine/Point.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DenseLine/Point.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DescribeNum/ToString.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DescribeNum/ToString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DueConsistsOfStack/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/DueConsistsOfStack/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/EnsureDifference/Different.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/EnsureDifference/Different.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ExchangeBinaryNum/Exchange.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ExchangeBinaryNum/Exchange.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FinNextInLDR/Path.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FinNextInLDR/Path.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FinNextInLDR/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FinNextInLDR/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindClosedWords/Distance.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindClosedWords/Distance.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindCommonAncestor/LCA.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindCommonAncestor/LCA.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindGraphPathExist/Path.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindGraphPathExist/Path.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindGraphPathExist/UndirectedGraphNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindGraphPathExist/UndirectedGraphNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLargestMatrix/SubMatrix.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLargestMatrix/SubMatrix.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLongestWord/LongestString.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLongestWord/LongestString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLostNumber/Finder.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindLostNumber/Finder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindMiddleOnTime/Middle.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindMiddleOnTime/Middle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindRearrange/Rearrange.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindRearrange/Rearrange.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindRkNode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindRkNode/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindRkNode/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindRkNode/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindSumPath/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindSumPath/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindSumPath/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindSumPath/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindTwoBinaryOne/CloseNumber.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/FindTwoBinaryOne/CloseNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/Flood/Flood.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/Flood/Flood.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/GoUpstairs/GoUpstairs.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/GoUpstairs/GoUpstairs.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeBalanceTree/Balance.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeBalanceTree/Balance.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeBalanceTree/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeBalanceTree/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeMirrorListNode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeMirrorListNode/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeMirrorListNode/Palindrome.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeMirrorListNode/Palindrome.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeSame/Same.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeSame/Same.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeSubstring/Substr.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/JudgeSubstring/Substr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/KthNumber/KthNumber.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/KthNumber/KthNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/LinesMeet/CrossLine.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/LinesMeet/CrossLine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ListNodeAdd/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ListNodeAdd/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ListNodeAdd/Plus.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ListNodeAdd/Plus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/LookForWord/Frequency.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/LookForWord/Frequency.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MagicIndex/MagicIndex.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MagicIndex/MagicIndex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MagicIndexVersion/MagicIndex.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MagicIndexVersion/MagicIndex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MaxSumLine/MaxSum.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MaxSumLine/MaxSum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MinBST/MinimalBST.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MinBST/MinimalBST.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MinBST/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/MinBST/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/NextLargerNum/NextElement.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/NextLargerNum/NextElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/NextLargerNum2/NextElement.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/NextLargerNum2/NextElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/PerenthesisJudge/Parenthesis.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/PerenthesisJudge/Parenthesis.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/RankCount/Rank.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/RankCount/Rank.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/Render/Render.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/Render/Render.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ReplaceSpace/Replacement.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ReplaceSpace/Replacement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ReverseEqual/ReverseEqual.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ReverseEqual/ReverseEqual.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ReverseString/Reverse.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ReverseString/Reverse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/RobotMovement/Robot.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/RobotMovement/Robot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/RobotNewVersionMovement/Robot.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/RobotNewVersionMovement/Robot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/RunningAnt/Ants.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/RunningAnt/Ants.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SeiOfStacks/SetOfStacks.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SeiOfStacks/SetOfStacks.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SlitListNode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SlitListNode/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SlitListNode/Partition.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SlitListNode/Partition.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SortStack/TwoStacks.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SortStack/TwoStacks.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SubMatrix/SubMatrix.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SubMatrix/SubMatrix.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SubsetPrint/Subset.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SubsetPrint/Subset.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SumSix/FindPair.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/SumSix/FindPair.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TransBinaryNum/Transform.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TransBinaryNum/Transform.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TransformPic/Transform.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TransformPic/Transform.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TreeLevel/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TreeLevel/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TreeLevel/TreeLevel.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TreeLevel/TreeLevel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TreeLevel/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/TreeLevel/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ZipChar/Zipper.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/CoderTreasure/ZipChar/Zipper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/EvaluateReverse/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/EvaluateReverse/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MaxPoints/Point.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MaxPoints/Point.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MaxPoints/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MaxPoints/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MinumDepth/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MinumDepth/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MinumDepth/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/MinumDepth/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/Main.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/AddNoOP/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/AddNoOP/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ArrayMultiple/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ArrayMultiple/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ArrayOdd/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ArrayOdd/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryFind1/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryFind1/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeBalance/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeBalance/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeBalance/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeBalance/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeHeight/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeHeight/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeHeight/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeHeight/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeJudge/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeJudge/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeJudge/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/BinaryTreeJudge/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Calculate1/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Calculate1/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ChangeDoubleList/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ChangeDoubleList/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ChangeDoubleList/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ChangeDoubleList/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/CheckMate/Board.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/CheckMate/Board.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ComplexNodeLIst/RandomListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ComplexNodeLIst/RandomListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ComplexNodeLIst/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ComplexNodeLIst/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/CountCircle/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/CountCircle/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/CountRobotMovement/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/CountRobotMovement/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/CountZero/Factor.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/CountZero/Factor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/DefinitionBinartTree/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/DefinitionBinartTree/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/DefinitionBinartTree/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/DefinitionBinartTree/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/DeleteNodeAgain/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/DeleteNodeAgain/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/DeleteNodeAgain/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/DeleteNodeAgain/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ExchangeWithoutTemp/Exchange.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ExchangeWithoutTemp/Exchange.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Fibonacci/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Fibonacci/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FinSortNum/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FinSortNum/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindBiggest/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindBiggest/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindCommonNode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindCommonNode/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindCommonNode/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindCommonNode/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindIndexS/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindIndexS/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindKnode/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindKnode/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindKnode/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindKnode/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindLIRNextNode/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindLIRNextNode/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindLIRNextNode/TreeLinkNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindLIRNextNode/TreeLinkNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindMinK/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindMinK/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindNumbersTwice/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindNumbersTwice/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindOnceInt/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindOnceInt/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindPathTree/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindPathTree/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindPathTree/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindPathTree/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindRing/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindRing/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindRing/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindRing/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindStringInputUnique/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindStringInputUnique/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindVector/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FindVector/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FirstOnceChar/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FirstOnceChar/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Frog/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Frog/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FuckingFrog/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/FuckingFrog/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/GuessColor/Result.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/GuessColor/Result.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/HalfTimesNum/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/HalfTimesNum/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/IsLucky/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/IsLucky/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/JudgeIsNum/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/JudgeIsNum/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/JudgeStackOrder/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/JudgeStackOrder/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/JudgeWithoutCompare/Max.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/JudgeWithoutCompare/Max.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ListNodeKth/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ListNodeKth/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ListNodeKth/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ListNodeKth/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MartixClockWise/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MartixClockWise/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MatchVaule/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MatchVaule/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MergeNotReduce/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MergeNotReduce/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MergeNotReduce/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MergeNotReduce/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MidNum/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MidNum/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MirrorBinaryTree/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MirrorBinaryTree/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MirrorBinaryTree/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MirrorBinaryTree/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MirrorTree/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MirrorTree/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MirrorTree/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/MirrorTree/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/NumToString/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/NumToString/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Power/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Power/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintBinaryTree/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintBinaryTree/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintBinaryTree/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintBinaryTree/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintMinNuM/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintMinNuM/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintString/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintString/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintTreeCol/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintTreeCol/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintTreeCol/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintTreeCol/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintZhiTree/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintZhiTree/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintZhiTree/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/PrintZhiTree/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ROLString/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ROLString/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Rectangle/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Rectangle/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/RectanglePath/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/RectanglePath/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReplaceSpace/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReplaceSpace/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReverseList/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReverseList/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReverseList/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReverseList/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReverseListNode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReverseListNode/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReverseListNode/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReverseListNode/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReversePair/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReversePair/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReverseWords/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/ReverseWords/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/SerializeTreeAndDeserialize/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/SerializeTreeAndDeserialize/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/SerializeTreeAndDeserialize/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/SerializeTreeAndDeserialize/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/SlideWindow/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/SlideWindow/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/StackMin/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/StackMin/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/StackToQue/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/StackToQue/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Sum/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/Sum/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/TwistedMin/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/TwistedMin/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/TwoNumSumS/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/TwoNumSumS/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/UglyNum/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/UglyNum/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/VerifyBst/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/SwordToOffer/VerifyBst/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LeetCode/SortList/Solution.java" afterPath="$PROJECT_DIR$/src/LeetCode/SortList/Solution.java" />
+    <list default="true" id="69db5f6e-516a-4811-bf72-352b040140e8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/ListNode.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/ListNode.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/Solution.class" afterPath="$PROJECT_DIR$/out/production/NewCodeTest/LeetCode/SortList/Solution.class" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/SortList/Solution.java" afterPath="$PROJECT_DIR$/src/LeetCode/SortList/Solution.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -306,99 +50,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/LostMin/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/MergeMidNum/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/WAP/MoveCoins/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/WAP/LinearData/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" column="9" lean-forward="false" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-              <folding>
-                <element signature="e#2764#2765#0" expanded="true" />
-                <element signature="e#2797#2798#0" expanded="true" />
-                <element signature="e#2834#2835#0" expanded="true" />
-                <element signature="e#2870#2871#0" expanded="true" />
-                <element signature="e#2905#2906#0" expanded="true" />
-                <element signature="e#2940#2941#0" expanded="true" />
-                <element signature="e#2984#2985#0" expanded="true" />
-                <element signature="e#3024#3025#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/TheWordYiLiked/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/SortList/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="386">
+              <caret line="72" column="21" lean-forward="false" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/Ctrip/DeleteSameChar/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/CreditCard51/ThreadCount/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2625">
-              <caret line="190" column="12" lean-forward="false" selection-start-line="190" selection-start-column="12" selection-end-line="190" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2711#2712#0" expanded="true" />
-                <element signature="e#2741#2742#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -505,8 +162,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="43" />
+    <option name="x" value="204" />
+    <option name="y" value="23" />
     <option name="width" value="1181" />
     <option name="height" value="678" />
   </component>
@@ -528,9 +185,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -580,7 +238,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -621,26 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="SchoolRecruit2016.CreditCard51.SortString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="SchoolRecruit2016.CreditCard51.SortString.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="NewCodeTest" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -706,6 +344,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="SchoolRecruit2016.Ctrip.LostMin.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NewCodeTest" />
+      <envs />
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.SortList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="LeetCode.SortList.Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1170,19 +827,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main (4)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main (3)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (5)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main (4)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main (5)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (5)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (3)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main (4)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (5)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -1273,8 +930,17 @@
       <workItem from="1506230810166" duration="8493000" />
       <workItem from="1506422847787" duration="1214000" />
       <workItem from="1506498445442" duration="589000" />
-      <workItem from="1506664891300" duration="139000" />
+      <workItem from="1506664891300" duration="6079000" />
+      <workItem from="1509538242153" duration="41000" />
     </task>
+    <task id="LOCAL-00001" summary="增加测试答案">
+      <created>1506665047021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506665047021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1310,7 +976,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="446244000" />
+    <option name="totallyTimeSpent" value="452225000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -1322,10 +988,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="43" width="1181" height="678" extended-state="0" />
+    <frame x="204" y="23" width="1181" height="678" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1333,12 +999,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923618" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.509434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32590052" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32590052" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34855136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923618" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1354,6 +1019,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32591414" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923618" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1431,8 +1097,32 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/SortList/Solution.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/SortList/Solution.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/SortList/Solution.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/SortList/Solution.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="28" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1691,11 +1381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2625">
           <caret line="190" column="12" lean-forward="false" selection-start-line="190" selection-start-column="12" selection-end-line="190" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2711#2712#0" expanded="true" />
-            <element signature="e#2741#2742#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1717,9 +1402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="13" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1728,7 +1410,7 @@
         <state relative-caret-position="345">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1780,10 +1462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="5098" column="7" lean-forward="true" selection-start-line="5098" selection-start-column="7" selection-end-line="5098" selection-end-column="7" />
-          <folding>
-            <element signature="e#197058#197059#0" expanded="false" />
-            <element signature="e#197128#197129#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1791,39 +1469,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/SortList/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/WAP/LinearData/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="9" lean-forward="false" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-          <folding>
-            <element signature="e#2764#2765#0" expanded="true" />
-            <element signature="e#2797#2798#0" expanded="true" />
-            <element signature="e#2834#2835#0" expanded="true" />
-            <element signature="e#2870#2871#0" expanded="true" />
-            <element signature="e#2905#2906#0" expanded="true" />
-            <element signature="e#2940#2941#0" expanded="true" />
-            <element signature="e#2984#2985#0" expanded="true" />
-            <element signature="e#3024#3025#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/TheWordYiLiked/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="210">
           <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolRecruit2016/WAP/LinearData/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="64" column="9" lean-forward="false" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/SortList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="72" column="21" lean-forward="false" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
           <folding />
         </state>
       </provider>
