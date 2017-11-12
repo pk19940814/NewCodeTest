@@ -7,10 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69db5f6e-516a-4811-bf72-352b040140e8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/NumGame/Main.java" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/NumGame/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/TheWordYiLiked/Main.java" afterPath="$PROJECT_DIR$/src/SchoolRecruit2016/NetEase/TheWordYiLiked/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1001,7 +998,7 @@
       <workItem from="1506664891300" duration="6079000" />
       <workItem from="1509538242153" duration="842000" />
       <workItem from="1510306572989" duration="4075000" />
-      <workItem from="1510496045507" duration="17000" />
+      <workItem from="1510496045507" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="增加测试答案">
       <created>1506665047021</created>
@@ -1024,7 +1021,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510306624861</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加测试答案">
+      <created>1510496081677</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510496081677</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1060,7 +1064,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="457118000" />
+    <option name="totallyTimeSpent" value="457139000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
